@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Nelio Alves',   '12312312380', 50000.0,'1980-07-26T09:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES ('Matheus Augusto', '12312312390', 500.0,'1990-09-26T12:15:00Z', 1);
