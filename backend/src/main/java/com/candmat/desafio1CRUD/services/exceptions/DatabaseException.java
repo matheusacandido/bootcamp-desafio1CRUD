@@ -1,6 +1,8 @@
 package com.candmat.desafio1CRUD.services.exceptions;
 
-public class DatabaseException extends RuntimeException {
+import org.springframework.dao.DataIntegrityViolationException;
+
+public class DatabaseException extends DataIntegrityViolationException {
 
 	private static final long serialVersionUID = 1L;
 
